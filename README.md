@@ -1,5 +1,5 @@
 # To-Do App
-Todo app using browser local storage.
+To-do app using browser local storage.
 
 With this app, users can easily create, edit and delete to-dos. Creating a new to-do is simple - just enter the task into the text box and press save. Editing an existing to-do is as easy as selecting it from your list of tasks and making any necessary changes before saving them. Deleting a to-do requires only one click on the delete button for that specific item in order for it be removed from your list of tasks permanently.
 
